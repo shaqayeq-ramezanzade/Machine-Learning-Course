@@ -1,3 +1,3 @@
-# Machine-Learning-Course
+# Machine learning and Deep learning Course
 
-MAktabkhoone Course for Machine learning by Jadi
+MAktabkhoone Course 
